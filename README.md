@@ -19,7 +19,7 @@ Ele segue a diretriz de **desacoplamento**, utilizando o Lambda para o fluxo de 
 
 
 ```markdown
-![Diagrama da Arquitetura AWS para Plataforma de Vagas](images/desafio-AWS-S3-EC2.png)
+![Diagrama da Arquitetura AWS para Plataforma de Vagas](images/desafio.png)
 ```
 
 ---
